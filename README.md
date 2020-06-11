@@ -6,4 +6,4 @@ Commands:
   If player does not have permission, it will just change his time to night
 
 Permissions:
-- timechanger.day - /night command will affect
+- timechanger.night - /night command will affect
