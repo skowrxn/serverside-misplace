@@ -7,3 +7,5 @@ Commands:
 
 Permissions:
 - `cmd.xp` - `/xp` command
+
+i will upload the source in the free time, if u want dm me on discord Alpaq#9426
