@@ -1,0 +1,4 @@
+name: PacketListenerAPI2
+version: 1.0
+author: Alpaq
+main: pl.alpaqdev.misplace.MisplacePlugin
