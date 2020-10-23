@@ -7,5 +7,3 @@ Commands:
 
 Permissions:
 - `cmd.xp` - `/xp` command
-
-x d 
