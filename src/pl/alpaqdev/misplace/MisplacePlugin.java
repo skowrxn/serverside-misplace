@@ -27,7 +27,7 @@ public class MisplacePlugin extends JavaPlugin {
         try{
             Class.forName("gg.ragemc.spigot.RageSpigot");
         }catch (ClassNotFoundException ex){
-            getLogger().severe("Plugin requires RageSpigot to run! Its free so ye download it or idk use a spigot with PacketHandlers");
+            getLogger().severe("Plugin requires RageSpigo or spigot with PacketHandlers");
             Bukkit.getPluginManager().disablePlugin(this);
             return false;
         }
